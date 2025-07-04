@@ -2,9 +2,9 @@
 
 A React + TypeScript + Tailwind CSS application allowing users to search for up to 5 GitHub users by username and view all repositories of the selected user, using the GitHub REST API v3.
 
-🚀 Live Demo: ....
+🚀 Live Demo: https://widiaseren.github.io/github-repositories-explorer/
 
-📂 Repository: [...](https://github.com/widiaseren/github-repositories-explorer)
+📂 Repository: [link](https://github.com/widiaseren/github-repositories-explorer)
 
 Features
 
@@ -19,26 +19,24 @@ Features
 ✅ State management using React Query
 ✅ Styling with Tailwind CSS
 
-Tech Stack
-
-React + TypeScript
-
-Tailwind CSS for styling and responsive design
-
-React Query for data fetching and caching
-
-Vitest + @testing-library/react for testing
-
-pnpm for fast dependency management
-
-Hosted using GitHub Pages
+📚 Tech Stack
+Library / Tool	and why it’s used
+React	Core framework for building reusable UI components
+TypeScript	Adds type safety for better maintainability and fewer bugs
+React Router	Optional, for managing user/repo views
+Axios	Simple promise-based HTTP client for API calls
+Tailwind CSS	Utility-first CSS framework for fast, responsive styling
+Vitest	Fast unit and integration testing for Vite projects
+React Testing Library	Encourages testing components the way users interact with them
+Vite	Fast dev server and build tool optimized for React + TypeScript
+GitHub Pages	Free hosting for static sites
 
 Setup Instructions
 
 1️⃣ Clone the repository
 
-git clone ....
-cd ....
+git clone https://github.com/widiaseren/github-repositories-explorer.git
+cd github-repositories-explorer
 
 2️⃣ Install dependencies
 
